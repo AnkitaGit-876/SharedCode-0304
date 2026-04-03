@@ -4,7 +4,7 @@
         <members>APIC1</members>
         <members>Test1</members>
         <name>ApexClass</name>
-    </types>
+    </types> 
     <!--<types>
         <members>*</members>
         <name>ApexComponent</name>
